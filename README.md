@@ -1,2 +1,2 @@
 #ARDUINO
-Cuaderno  para cargar  y registrar algunas prácticas de Arduino
+Cuaderno para cargar y registrador algunas prácticas de Arduino
